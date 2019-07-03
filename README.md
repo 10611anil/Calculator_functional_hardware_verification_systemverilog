@@ -1,4 +1,5 @@
 # Calculator_functional_hardware_verification_systemverilog
+Include top file from design folder to verification environment to run the test in Questasim.
 Implementation of verification environment of parallel calculator 
 Course: Funvtional hardware verification (COEN 6541)
 University: Concordia University
